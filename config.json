@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "CanaleSuggerimenti": "ID CANALE SUGGERIMENTI",
+    "ruoloMute": "ID RUOLO MUTE | il ruolo mute non deve avere il permesso di scrivere nelle chat, se no, non funzionerà!",
+    "ticketCategoria": "ID DELLA CATEGORIA DOVE SI APRIRANNO I TICKET",
+    "ruoloAccessoTicket": "ID DEL RUOLO CHE PUO AVERE ACCESSO AL TICKET (praticamente il ruolo staff)"
+}
